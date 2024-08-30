@@ -40,5 +40,3 @@ This repository contains code for analyzing beer profile and ratings data. It in
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
